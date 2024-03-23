@@ -9,7 +9,7 @@ START_TEXT = """𝐇𝐞𝐥𝐥𝐨 {} 🧸❤️,
 𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐢 𝐰𝐢𝐥𝐥 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐩𝐡𝐨𝐭𝐨 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝.
 
 
-⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @synaxnetwork 🦋"""
+⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ  @synaxnetwork 🦋"""
 
 HELP_TEXT = """--**𝐌𝐨𝐫𝐞 𝐇𝐞𝐥𝐩**--
 
@@ -17,15 +17,15 @@ HELP_TEXT = """--**𝐌𝐨𝐫𝐞 𝐇𝐞𝐥𝐩**--
 ➩ ɪ ᴡɪʟʟ ᴅᴏᴡɴʟᴏᴀᴅ ɪᴛ .
 ➩ ɪ ᴡɪʟʟ sᴇɴᴅ ᴛʜᴇ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜᴏᴜᴛ ʙᴀᴄᴋɢʀᴏᴜɴᴅ .
 
-⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @synaxnetwork 🦋"""
+⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ  @synaxnetwork 🦋"""
 
-ABOUT_TEXT = """**About Me**
+ABOUT_TEXT = """**𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :**
 
 ➩ **𝐁𝐨𝐭 🇮🇳 :** `ʙᴀᴄᴋɢʀᴏᴜɴᴅ ʀᴇᴍᴏᴠᴇʀ 🦄`
-➩ **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ☘️ :** [ɪɴsᴛᴀɢʀᴀᴍ 🌱](https://instagram.com/sanatanisynax) | [ᴛᴇʟᴇɢʀᴀᴍ 🌱](https://telegram.me/synaxbots)
-➩ **𝐒𝐨𝐮𝐫𝐜𝐞 👀 :** [ᴄʟɪᴄᴋ ᴋʀ 🐰](https://t.me/synaxnetwork)
-➩ **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 😈 :** [ᴘʏᴛʜᴏɴ 3 🦜](https://python.org)
-➩ **𝐋𝐢𝐛𝐫𝐚𝐫𝐲 🧸 :** [ᴘʏʀᴏɢʀᴀᴍ 🌸](https://pyrogram.org)"""
+➩ **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ☘️ :** [ɪɴsᴛᴀɢʀᴀᴍ ](https://instagram.com/sanatanisynax) | [ᴛᴇʟᴇɢʀᴀᴍ ](https://telegram.me/synaxbots)
+➩ **𝐒𝐨𝐮𝐫𝐜𝐞 :** [ᴄʟɪᴄᴋ ᴋʀ 🐰](https://t.me/synaxnetwork)
+➩ **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 :** [ᴘʏᴛʜᴏɴ 3 🦜](https://python.org)
+➩ **𝐋𝐢𝐛𝐫𝐚𝐫𝐲 :** [ᴘʏʀᴏɢʀᴀᴍ 🌸](https://pyrogram.org)"""
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
