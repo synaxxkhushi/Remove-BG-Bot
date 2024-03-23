@@ -3,11 +3,13 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-START_TEXT = """Hello {},
-I am a media background remover bot. \
-Send me a photo I will send the photo without background.
+START_TEXT = """𝐇𝐞𝐥𝐥𝐨 {} 🧸❤️,
 
-Made by @FayasNoushad"""
+🇮🇳 𝐈 𝐚𝐦 𝐚 𝐦𝐞𝐝𝐢𝐚 𝐛𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐩 𝐫𝐞𝐦𝐨𝐯𝐞𝐫 𝐛𝐨𝐭. \
+𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐢 𝐰𝐢𝐥𝐥 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐩𝐡𝐨𝐭𝐨 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝.
+
+
+⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @s4n6x🦋"""
 
 HELP_TEXT = """--**More Help**--
 
