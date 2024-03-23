@@ -9,33 +9,33 @@ START_TEXT = """𝐇𝐞𝐥𝐥𝐨 {} 🧸❤️,
 𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐢 𝐰𝐢𝐥𝐥 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐩𝐡𝐨𝐭𝐨 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝.
 
 
-⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @s4n6x🦋"""
+⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @synaxnetwork 🦋"""
 
-HELP_TEXT = """--**More Help**--
+HELP_TEXT = """--**𝐌𝐨𝐫𝐞 𝐇𝐞𝐥𝐩**--
 
-- Just send me a photo or video
-- I will download it
-- I will send the photo or video without background
+➩ ᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ᴀ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ .
+➩ ɪ ᴡɪʟʟ ᴅᴏᴡɴʟᴏᴀᴅ ɪᴛ .
+➩ ɪ ᴡɪʟʟ sᴇɴᴅ ᴛʜᴇ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜᴏᴜᴛ ʙᴀᴄᴋɢʀᴏᴜɴᴅ .
 
-Made by @FayasNoushad"""
+⚔️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @synaxnetwork 🦋"""
 
 ABOUT_TEXT = """**About Me**
 
-- **Bot :** `Backround Remover Bot`
-- **Developer :** [GitHub](https://github.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot)
-- **Language :** [Python 3](https://python.org)
-- **Library :** [Pyrogram](https://pyrogram.org)"""
+➩ **𝐁𝐨𝐭 🇮🇳 :** `ʙᴀᴄᴋɢʀᴏᴜɴᴅ ʀᴇᴍᴏᴠᴇʀ 🦄`
+➩ **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ☘️ :** [ɪɴsᴛᴀɢʀᴀᴍ 🌱](https://instagram.com/sanatanisynax) | [ᴛᴇʟᴇɢʀᴀᴍ 🌱](https://telegram.me/synaxbots)
+➩ **𝐒𝐨𝐮𝐫𝐜𝐞 👀 :** [ᴄʟɪᴄᴋ ᴋʀ 🐰](https://t.me/synaxnetwork)
+➩ **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 😈 :** [ᴘʏᴛʜᴏɴ 3 🦜](https://python.org)
+➩ **𝐋𝐢𝐛𝐫𝐚𝐫𝐲 🧸 :** [ᴘʏʀᴏɢʀᴀᴍ 🌸](https://pyrogram.org)"""
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Help', callback_data='help'),
-            InlineKeyboardButton('About', callback_data='about'),
-            InlineKeyboardButton('Close', callback_data='close')
+            InlineKeyboardButton('🌷 𝐇𝐞𝐥𝐩 🌷', callback_data='help'),
+            InlineKeyboardButton('🌴 𝐀𝐛𝐨𝐮𝐭 🌴', callback_data='about'),
+            InlineKeyboardButton('🌿 𝐂𝐥𝐨𝐬𝐞 🌿', callback_data='close')
         ],
         [
-            InlineKeyboardButton('Feedback', url='https://telegram.me/FayasNoushad')
+            InlineKeyboardButton('🍂 𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 🍂', url='https://telegram.me/synaxchatrobot')
         ]
     ]
 )
@@ -43,9 +43,9 @@ START_BUTTONS = InlineKeyboardMarkup(
 HELP_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Home', callback_data='home'),
-            InlineKeyboardButton('About', callback_data='about'),
-            InlineKeyboardButton('Close', callback_data='close')
+            InlineKeyboardButton('❄️ 𝐇𝐨𝐦𝐞 ❄️', callback_data='home'),
+            InlineKeyboardButton('🌴 𝐀𝐛𝐨𝐮𝐭 🌴', callback_data='about'),
+            InlineKeyboardButton('🌿 𝐂𝐥𝐨𝐬𝐞 🌿', callback_data='close')
         ]
     ]
 )
@@ -53,9 +53,9 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 ABOUT_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Home', callback_data='home'),
-            InlineKeyboardButton('Help', callback_data='help'),
-            InlineKeyboardButton('Close', callback_data='close')
+            InlineKeyboardButton('❄️ 𝐇𝐨𝐦𝐞 ❄️', callback_data='home'),
+            InlineKeyboardButton('🌷 𝐇𝐞𝐥𝐩 🌷', callback_data='help'),
+            InlineKeyboardButton('🌿 𝐂𝐥𝐨𝐬𝐞 🌿', callback_data='close')
         ]
     ]
 )
@@ -63,7 +63,7 @@ ABOUT_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Join Channel', url='https://telegram.me/FayasNoushad')
+            InlineKeyboardButton('🇮🇳 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🇮🇳', url='https://telegram.me/synaxnetwork')
         ]
     ]
 )
